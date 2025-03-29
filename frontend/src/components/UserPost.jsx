@@ -48,7 +48,7 @@ const UserPost = ({ postImg, postTitle, likes, replies }) => {
 					<Flex justifyContent={"space-between"} w={"full"}>
 						<Flex w={"full"} alignItems={"center"}>
 							<Text fontSize={"sm"} fontWeight={"bold"}>
-								markzuckerberg
+								Deng Luxury
 							</Text>
 							<Image src='/verified.png' w={4} h={4} ml={1} />
 						</Flex>
